@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+
+Observations by a Very Low-Ranking Monkey.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+This blog in no way represents my employer.
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[tbrown@vwc.com](mailto:tbrown@vwc.com)

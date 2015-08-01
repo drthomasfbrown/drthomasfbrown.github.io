@@ -4,7 +4,7 @@ title: Contents
 permalink: /contents/
 published: true
 ---
-
+stuff
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,3 +12,4 @@ published: true
     </li>
   {% endfor %}
 </ul>
+more stuff

@@ -2,9 +2,10 @@
 published: false
 ---
 
+
 ---
 layout: post
-title: ""
+title: "Social Network Analysis and the American Revolution"
 published: true
 ---
 

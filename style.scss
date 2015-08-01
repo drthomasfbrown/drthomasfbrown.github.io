@@ -31,12 +31,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-      font-family: 'Playfair Display', serif;
-    font-weight: 900;
-    line-height: 46px;
-    font-size: 43px;
-    margin: 0 0 23px 0;
-    color: $darkerGray;
+    font-family: $helveticaNeue;
+  color: $darkerGray;
+  font-weight: bold;
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
     
 
 

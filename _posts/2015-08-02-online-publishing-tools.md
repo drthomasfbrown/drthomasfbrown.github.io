@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Tools for Publishing Online
 permalink: online-publishing-tools

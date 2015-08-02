@@ -25,6 +25,17 @@ Needs a citation network analysis.
 - snowball sample form known examples
 - also check out Web of Science, SSCI, and Century of Social Science.
 
+### Major exemplars
+Estabrook & McDougle
+Brewton Berry
+Guy Johnson
+William Gilbert
+Ed Price
+Calvin Beale
+Harte
+Henige
+http://www.mixedracestudies.org/wordpress/
+
 
 
 

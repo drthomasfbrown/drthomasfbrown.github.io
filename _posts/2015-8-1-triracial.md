@@ -10,6 +10,7 @@ published: true
 1. "Local color" journalism
 2. Amateur historians-hypothesists
 3. Salvage ethnography
+
 ##Early manifestations
 - primarily in the eugenics literature
 ## Tri-Racial Studies Becomes "Scientific"

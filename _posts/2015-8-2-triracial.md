@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## Origins
 1. "Local color" journalism
 2. Amateur historians-hypothesists
@@ -36,6 +37,7 @@ Needs a citation network analysis. Anyone want to work on it with me?
 
 Analysis tools:
 
+- [Networks Demystified 7: Doing Co-Citation Analyses](http://www.scottbot.net/HIAL/?p=39432)
 - [HistCite](http://interest.science.thomsonreuters.com/forms/HistCite/)
 - [GSNAP: Google Scholar - Network Analysis Package](http://wing.comp.nus.edu.sg/~lmthang/GSNAP/)
 - [Citation Network Analyzer in R](https://github.com/lecy/citation-analysis-in-R)

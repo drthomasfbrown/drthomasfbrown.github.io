@@ -16,3 +16,4 @@ published: true
 - E-book editors
   - [Calibre](http://calibre-ebook.com/about)
   - [Sigil](http://sigil-ebook.com/)
+  - The [Writer2ePub](http://extensions.services.openoffice.org/en/project/Writer2ePub) plugin for LibreOffice

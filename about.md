@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Observations by a Very Low-Ranking Monkey.
+Low-Ranking Monkey does social science. Because humans are fun to watch at the zoo.
 
 ### More Information
 This blog in no way represents my employer.

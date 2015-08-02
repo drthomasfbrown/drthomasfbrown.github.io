@@ -17,4 +17,6 @@ published: true
   - [Calibre](http://calibre-ebook.com/about)
   - [Sigil](http://sigil-ebook.com/)
   - The [Writer2ePub](http://extensions.services.openoffice.org/en/project/Writer2ePub) plugin for LibreOffice
-    - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.
+- E-book tutorials
+  - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.
+  - [To Epub from Word or gDocs](http://janefriedman.com/2014/12/19/word-epub/).

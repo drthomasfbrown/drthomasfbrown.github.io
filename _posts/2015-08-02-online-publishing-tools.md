@@ -11,3 +11,7 @@ permalink: online-publishing-tools
 
 - [The Historian's Macroscope](http://www.themacroscope.org/?p=1)
 -[Holy of Holies](http://futureofthebook.org/mitchellstephens/holyofholies/) (appears to be an earlier theme, but I like it better than the current default.)
+
+Scalar
+
+- My first Scalar book: [UNOBTRUSIVE MEASURES ONLINE: OPEN SOURCE INTELLIGENCE FOR INVESTIGATORS AND SOCIAL SCIENTISTS](http://scalar.usc.edu/works/unobtrusive-measures-online/index)

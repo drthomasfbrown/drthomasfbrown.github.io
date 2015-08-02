@@ -31,13 +31,21 @@ Needs a citation network analysis.
 
 ### Major exemplars
 Estabrook & McDougle
+
 Brewton Berry
+
 Guy Johnson
+
 William Gilbert
+
 Ed Price
+
 Calvin Beale
+
 Harte
+
 Henige
+
 http://www.mixedracestudies.org/wordpress/
 
 

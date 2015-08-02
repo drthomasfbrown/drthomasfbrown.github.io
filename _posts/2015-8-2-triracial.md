@@ -33,6 +33,10 @@ Needs a citation network analysis. Anyone want to work on it with me?
 - snowball sample from known examples
 - also check out Web of Science, SSCI, and Century of Social Science.
 
+Analysis tools:
+
+- 
+
 ### Major exemplars
 Estabrook & McDougle
 

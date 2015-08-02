@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Tools for Publishing Online
-permalink: online-publishing-tools
+permalink: "online-publishing-tools"
+published: true
 ---
-### [Commentpress](http://futureofthebook.org/commentpress/), a Wordpress plugin. Some nice examples in action:
+
+### [Commentpress](http://futureofthebook.org/commentpress/) // is a Wordpress plugin. Some nice examples in action:
 
 - [The Historian's Macroscope](http://www.themacroscope.org/?p=1)
 - [Holy of Holies](http://futureofthebook.org/mitchellstephens/holyofholies/) (appears to be an earlier theme, but I like it better than the current default.)

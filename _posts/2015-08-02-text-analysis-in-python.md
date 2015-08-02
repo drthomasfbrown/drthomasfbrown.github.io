@@ -3,7 +3,7 @@ layout: post
 title: Text Analysis in Python
 permalink: TextAnalysisPython
 ---
-
+[From Neal Caren:](http://nealcaren.github.io/python-tutorials/)
 Playing with words.
 Text Analysis with Topic Models for the Humanities and Social Sciences by Allen Riddell. A series of tutorials on including preprocessing, computing text similarities, and finding distictive words.
 A Smattering of NLP in Python by Charlie Greenbacker. The basics of using NTLK to analyze text documents.

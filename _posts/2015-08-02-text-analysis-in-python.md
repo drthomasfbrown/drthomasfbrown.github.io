@@ -14,3 +14,5 @@ published: true
 * [NLTK Syntax Trees](http://nbviewer.ipython.org/github/gmonce/nltk_parsing/blob/master/1.%20NLTK%20Syntax%20Trees.ipynb) by Guillermo Moncecchi. Sentence parsing.
 * [Fuzzy Matching with Yhat](http://blog.yhathq.com/posts/fuzzy-matching-with-yhat.html) by yhat. Matching using messy text strings.
 * [Introductory Natural Language Techniques using Python](http://nbviewer.ipython.org/github/douglasstarnes/pyohio14/blob/master/NaturalLanguageToolkit.ipynb) by Douglas Starnes. An introduction to NLTK.
+
+See also Neal's _Unsupervised Learning_ section for topic modelling.

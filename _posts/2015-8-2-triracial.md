@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 ## Origins
 1. "Local color" journalism
 2. Amateur historians-hypothesists
@@ -35,7 +36,9 @@ Needs a citation network analysis. Anyone want to work on it with me?
 
 Analysis tools:
 
-- 
+- [HistCite](http://interest.science.thomsonreuters.com/forms/HistCite/)
+- [GSNAP: Google Scholar - Network Analysis Package](http://wing.comp.nus.edu.sg/~lmthang/GSNAP/)
+- [Citation Network Analyzer in R](https://github.com/lecy/citation-analysis-in-R)
 
 ### Major exemplars
 Estabrook & McDougle
@@ -55,10 +58,3 @@ Harte
 Henige
 
 [http://www.mixedracestudies.org/wordpress/](http://www.mixedracestudies.org/wordpress/)
-
-
-
-
-
-
-

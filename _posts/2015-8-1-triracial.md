@@ -46,7 +46,7 @@ Harte
 
 Henige
 
-http://www.mixedracestudies.org/wordpress/
+[http://www.mixedracestudies.org/wordpress/](http://www.mixedracestudies.org/wordpress/)
 
 
 

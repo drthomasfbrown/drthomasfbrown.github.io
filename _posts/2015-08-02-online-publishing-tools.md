@@ -11,3 +11,7 @@ published: true
 
 - [Scalar](http://scalar.usc.edu/)
   - My first Scalar book: [UNOBTRUSIVE MEASURES ONLINE: OPEN SOURCE INTELLIGENCE FOR INVESTIGATORS AND SOCIAL SCIENTISTS](http://scalar.usc.edu/works/unobtrusive-measures-online/index)
+  
+- E-book editors
+  - [Calibre](http://calibre-ebook.com/about)
+  - [Sigil](http://sigil-ebook.com/)

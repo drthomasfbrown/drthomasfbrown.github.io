@@ -15,10 +15,10 @@ published: true
 - primarily in the eugenics literature
 
 ## Tri-Racial Studies Becomes "Scientific"
-- emerges as empirical sociology in the 1930s and 40s.
-- spreads to other disciplines in the 1950s
--- geography (eg, Price)
--- medicine (eg, Witkop)
+* emerges as empirical sociology in the 1930s and 40s.
+* spreads to other disciplines in the 1950s
+  * geography (eg, Price)
+  * medicine (eg, Witkop)
 
 ## Tri-Racial studies disappears
 - coincides with the end of Jim Crow; growing interest in ethnicity

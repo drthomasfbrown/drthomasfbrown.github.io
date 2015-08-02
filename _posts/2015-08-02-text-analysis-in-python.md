@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: Text Analysis in Python
+permalink: TextAnalysisPython
 ---
-
-
 
 Playing with words.
 Text Analysis with Topic Models for the Humanities and Social Sciences by Allen Riddell. A series of tutorials on including preprocessing, computing text similarities, and finding distictive words.

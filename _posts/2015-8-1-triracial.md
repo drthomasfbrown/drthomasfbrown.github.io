@@ -25,7 +25,8 @@ published: true
 - activist anthropology
 
 Needs a citation network analysis.
-- snowball sample form known examples
+
+- snowball sample from known examples
 - also check out Web of Science, SSCI, and Century of Social Science.
 
 ### Major exemplars

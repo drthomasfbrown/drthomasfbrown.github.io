@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StoryMap test
+title: StoryMapJS test
 permalink: test
 ---
 Here is a test storymap, to see how it looks in the blog.

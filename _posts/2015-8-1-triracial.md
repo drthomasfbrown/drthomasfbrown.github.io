@@ -24,8 +24,9 @@ published: true
 - coincides with the end of Jim Crow; growing interest in ethnicity
 - activist anthropology
 
-Needs a citation network analysis.
+## Research ideas
 
+Needs a citation network analysis. Anyone want to work on it with me?
 - snowball sample from known examples
 - also check out Web of Science, SSCI, and Century of Social Science.
 

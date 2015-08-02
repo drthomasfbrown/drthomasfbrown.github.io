@@ -2,9 +2,7 @@
 published: false
 ---
 
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 Playing with words.
 Text Analysis with Topic Models for the Humanities and Social Sciences by Allen Riddell. A series of tutorials on including preprocessing, computing text similarities, and finding distictive words.

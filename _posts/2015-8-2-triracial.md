@@ -23,6 +23,8 @@ published: true
 ## Tri-Racial studies disappears
 - coincides with the end of Jim Crow; growing interest in ethnicity
 - activist anthropology
+- seems to decline in the mid-1960s as anthros come in
+- gone altogether after the mid-1980s
 
 ## Research ideas
 

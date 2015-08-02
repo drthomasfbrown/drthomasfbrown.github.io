@@ -6,8 +6,6 @@ published: true
 ---
 
 [From Neal Caren:](http://nealcaren.github.io/python-tutorials/)
-Playing with words.
-
 * [Text Analysis with Topic Models for the Humanities and Social Sciences](https://de.dariah.eu/tatom/) by Allen Riddell. A series of tutorials on including preprocessing, computing text similarities, and finding distictive words.
 * [A Smattering of NLP in Python](http://nbviewer.ipython.org/github/charlieg/A-Smattering-of-NLP-in-Python/blob/master/A%20Smattering%20of%20NLP%20in%20Python.ipynb) by Charlie Greenbacker. The basics of using NTLK to analyze text documents.
 * [Using Pandas to Curate Data from the New York Public Library's What's On the Menu? Project](http://nbviewer.ipython.org/gist/trevormunoz/8358810) byTrevor Muñoz. People spell potatoes au gratin a lot of different ways.

@@ -1,13 +1,15 @@
 ---
-published: false
+layout: post
+title: Curating Your Online Identity
+permalink: TextAnalysisPython
+published: true
 ---
+
+The goal is to control what shows up when people search for you on Google -- or at least what shows on the first page of search reults. The main strategy is to sign up for all the main social media accounts, whether you use them or not. Put a link back to your home page in all of them.
 
 <a href="http://wiobyrne.com/creating-and-curating-your-online-brand/">http://wiobyrne.com/creating-and-curating-your-online-brand/</a>
 
-
-
-</div>
-<div><a href="http://lifehacker.com/5531465/establish-and-maintain-your-online-identity">http://lifehacker.com/5531465/establish-and-maintain-your-online-identity<br>
+<a href="http://lifehacker.com/5531465/establish-and-maintain-your-online-identity">http://lifehacker.com/5531465/establish-and-maintain-your-online-identity<br>
 </a>
 <div><br>
 </div>

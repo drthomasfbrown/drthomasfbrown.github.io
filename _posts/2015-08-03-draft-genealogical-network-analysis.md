@@ -11,3 +11,5 @@ Pajek imports GEDCOM files.
   * [https://dhs.stanford.edu/social-media-literacy/an-ecology-of-the-english-peoples/](https://dhs.stanford.edu/social-media-literacy/an-ecology-of-the-english-peoples/)
   
 > The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.
+
+sxsxs

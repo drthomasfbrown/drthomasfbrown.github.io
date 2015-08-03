@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curating Your Online Identity
-permalink: TextAnalysisPython
+permalink: CuratingYourOnlineIdentity
 published: true
 ---
 

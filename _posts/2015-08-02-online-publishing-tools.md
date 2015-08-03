@@ -21,6 +21,7 @@ published: true
   - [Mobipocket creator](http://www.mobipocket.com/en/DownloadSoft/ProductDetailsCreator.asp)
   -write in Epub, comile on KindleGen for mobi.
   - [re mobi](http://wiki.mobileread.com/wiki/Mobi)
+  - old but good [mobi tutorial](http://www.scribd.com/doc/18235746/HarryT-s-MobiPocket-Tutorial). Out of date?
 
 - E-book tutorials
   - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.

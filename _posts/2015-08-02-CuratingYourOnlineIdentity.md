@@ -5,7 +5,8 @@ permalink: CuratingYourOnlineIdentity
 published: true
 ---
 
-The goal is to control what shows up when people search for you on Google -- or at least what shows on the first page of search reults. The main strategy is to sign up for all the main social media accounts, whether you use them or not. Put a link back to your home page in all of them.
+
+The goal is to control what shows up when people search for you on Google -- or at least what shows on the first page of search results. The main strategy is to sign up for all the main social media accounts, whether you use them or not. Put a link back to your home page in all of them.
 
 <a href="http://wiobyrne.com/creating-and-curating-your-online-brand/">http://wiobyrne.com/creating-and-curating-your-online-brand/</a>
 

@@ -20,6 +20,7 @@ published: true
   - The [Writer2ePub](http://extensions.services.openoffice.org/en/project/Writer2ePub) plugin for LibreOffice
   - [Mobipocket creator](http://www.mobipocket.com/en/DownloadSoft/ProductDetailsCreator.asp)
   -write in Epub, comile on KindleGen for mobi.
+  - [re mobi](http://wiki.mobileread.com/wiki/Mobi)
 
 - E-book tutorials
   - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.

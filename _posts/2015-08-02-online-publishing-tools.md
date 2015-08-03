@@ -14,7 +14,7 @@ published: true
   - My first Scalar book: [UNOBTRUSIVE MEASURES ONLINE: OPEN SOURCE INTELLIGENCE FOR INVESTIGATORS AND SOCIAL SCIENTISTS](http://scalar.usc.edu/works/unobtrusive-measures-online/index)
   - I like Scalar, but now I want to publish the same material as an E-book. I haven't yet found an easy way to get my stuff out of Scalar and into another format.
   
-- E-book editors
+- E-book creation
   - [Calibre](http://calibre-ebook.com/about)
   - [Sigil](http://sigil-ebook.com/)
   - The [Writer2ePub](http://extensions.services.openoffice.org/en/project/Writer2ePub) plugin for LibreOffice

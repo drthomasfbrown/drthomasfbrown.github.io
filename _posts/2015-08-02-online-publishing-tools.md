@@ -5,6 +5,7 @@ permalink: "online-publishing-tools"
 published: true
 ---
 
+
 - [Commentpress](http://futureofthebook.org/commentpress/) is a Wordpress plugin to write a book online. Some nice examples in action:
   - [The Historian's Macroscope](http://www.themacroscope.org/?p=1)
   - [Holy of Holies](http://futureofthebook.org/mitchellstephens/holyofholies/) (appears to be an earlier theme, but I like it better than the current default.)
@@ -17,6 +18,10 @@ published: true
   - [Calibre](http://calibre-ebook.com/about)
   - [Sigil](http://sigil-ebook.com/)
   - The [Writer2ePub](http://extensions.services.openoffice.org/en/project/Writer2ePub) plugin for LibreOffice
+  - [Mobipocket creator](http://www.mobipocket.com/en/DownloadSoft/ProductDetailsCreator.asp)
+
 - E-book tutorials
   - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.
   - [To Epub from Word or gDocs](http://janefriedman.com/2014/12/19/word-epub/).
+
+

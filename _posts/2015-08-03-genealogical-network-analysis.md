@@ -7,6 +7,7 @@ published: true
 
 
 
+
 Pajek imports GEDCOM files.
 
 * [http://eclectic.ss.uci.edu/~drwhite/pgraph/p-graphs.html](http://eclectic.ss.uci.edu/~drwhite/pgraph/p-graphs.html)
@@ -23,3 +24,5 @@ Pajek imports GEDCOM files.
  * [data reduction in genealogy network graphs](https://dhs.stanford.edu/social-media-literacy/visualizing-genealogical-networks/)
   
 > [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
+
+  * Tur.ged is a genealogy of Turkish nomads (White et al., 1999). Among nomads, a relinking marriage is a signal of commitment to stay within the nomad group; therefore, again, high relinking is expected. (Batagelj, 10)

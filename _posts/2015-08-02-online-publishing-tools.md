@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 - [Commentpress](http://futureofthebook.org/commentpress/) is a Wordpress plugin to write a book online. Some nice examples in action:
   - [The Historian's Macroscope](http://www.themacroscope.org/?p=1)
   - [Holy of Holies](http://futureofthebook.org/mitchellstephens/holyofholies/) (appears to be an earlier theme, but I like it better than the current default.)
@@ -23,9 +24,10 @@ published: true
   - [re mobi](http://wiki.mobileread.com/wiki/Mobi)
   - old but good [mobi tutorial](http://www.scribd.com/doc/18235746/HarryT-s-MobiPocket-Tutorial). Out of date?
   - [2EPub](http://toepub.com/) converter
+  
+ * Amazon Kindle
+    * [http://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf](http://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf)
 
 - E-book tutorials
   - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.
   - [To Epub from Word or gDocs](http://janefriedman.com/2014/12/19/word-epub/).
-
-

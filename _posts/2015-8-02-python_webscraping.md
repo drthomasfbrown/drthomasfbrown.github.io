@@ -5,6 +5,8 @@ permalink: python_webscraping
 published: true
 ---
 
+A collection of web scraping resources:
+
 Five web scraping lessons from [The Programming Historian.](http://programminghistorian.org/lessons/)
 
 [With Python, from Neal Caren:](http://nealcaren.github.io/python-tutorials/)

@@ -10,6 +10,7 @@ published: true
 
 
 
+
 Pajek imports GEDCOM files.
 
 * [http://eclectic.ss.uci.edu/~drwhite/pgraph/p-graphs.html](http://eclectic.ss.uci.edu/~drwhite/pgraph/p-graphs.html)
@@ -27,9 +28,16 @@ Pajek imports GEDCOM files.
   * [https://dhs.stanford.edu/social-media-literacy/an-ecology-of-the-english-peoples/](https://dhs.stanford.edu/social-media-literacy/an-ecology-of-the-english-peoples/)
  * [data reduction in genealogy network graphs](https://dhs.stanford.edu/social-media-literacy/visualizing-genealogical-networks/)
   
-> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
 
-  * Tur.ged is a genealogy of Turkish nomads (White et al., 1999). Among nomads, a relinking marriage is a signal of commitment to stay within the nomad group; therefore, again, high relinking is expected. (Batagelj, 10)
+
+  * Tur.ged is a genealogy of Turkish nomads. Among nomads, a relinking marriage is a signal of commitment to stay within the nomad group; therefore, again, high relinking is expected. (Batagelj, 10)
+  
+  Doug White book & articles:
+  
   * DR WHite, [Kinship, Class, and Community](file:///home/chronos/u-e8e451034f4f9389fcc1a8747b8eed87e2a27eb1/Downloads/eScholarship%20UC%20item%205qb5z783.pdf)
+  * [Analyzing Large Kinship and Marriage Networks With Pgraph and Pajek]( http://vlado.fmf.uni-lj.si/vlado/papers../245.pdf)
+  
+  *> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
+ 
 
 * [https://www.kinsources.net/](https://www.kinsources.net/)

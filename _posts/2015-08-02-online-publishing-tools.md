@@ -25,8 +25,9 @@ published: true
   - old but good [mobi tutorial](http://www.scribd.com/doc/18235746/HarryT-s-MobiPocket-Tutorial). Out of date?
   - [2EPub](http://toepub.com/) converter
   
- * Amazon Kindle
+ * Amazon Kindle, other vendors guidelines
     * [http://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf](http://kindlegen.s3.amazonaws.com/AmazonKindlePublishingGuidelines.pdf)
+    * [file:///home/chronos/u-e8e451034f4f9389fcc1a8747b8eed87e2a27eb1/Downloads/smashwords-style-guide.pdf](file:///home/chronos/u-e8e451034f4f9389fcc1a8747b8eed87e2a27eb1/Downloads/smashwords-style-guide.pdf)
 
 - E-book tutorials
   - A [tutorial](http://opensource.com/life/13/8/how-create-ebook-open-source-way) on the LibreOffice approach.

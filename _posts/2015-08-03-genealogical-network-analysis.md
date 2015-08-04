@@ -21,15 +21,12 @@ Software:
 * [an introductory Pajek lesson.](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/assignments/MIT14_15JF09_pajek.pdf)
 * [TIPP macros for Pajek](http://intersci.ss.uci.edu/wiki/index.php/TIPP_Kinship_and_computing)
 
-
 * GEPHI and GEDCOM
   * [https://forum.gephi.org/viewtopic.php?t=1595](https://forum.gephi.org/viewtopic.php?t=1595)
   * [https://dhs.stanford.edu/social-media-literacy/an-ecology-of-the-english-peoples/](https://dhs.stanford.edu/social-media-literacy/an-ecology-of-the-english-peoples/)
  * [data reduction in genealogy network graphs](https://dhs.stanford.edu/social-media-literacy/visualizing-genealogical-networks/)
   
-
-
-  * Tur.ged is a genealogy of Turkish nomads. Among nomads, a relinking marriage is a signal of commitment to stay within the nomad group; therefore, again, high relinking is expected. (Batagelj, 10)
+* Tur.ged is a genealogy of Turkish nomads. Among nomads, a relinking marriage is a signal of commitment to stay within the nomad group; therefore, again, high relinking is expected. (Batagelj, 10)
   
  Articles:
   

@@ -38,7 +38,6 @@ Software:
 * [Kinship Network Analysis,](https://hal.archives-ouvertes.fr/halshs-00658667/document) Hamberger et al 2011.
 * [Kinship Class, and Community](Kinship, Class, and Community), White 2011.
 *> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
-* [Kinship Network Analysis,](https://hal.archives-ouvertes.fr/halshs-00658667/document) Hamberger et al 2011.
 * [Kinship Class, and Community](Kinship, Class, and Community), White 2011.
 * [Analysis of Kinship Relations with Pajek](http://vlado.fmf.uni-lj.si/pub/networks/doc/gen/kinshipr2.pdf)
 

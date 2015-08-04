@@ -33,8 +33,8 @@ Software:
   
 * DR WHite, [Kinship, Class, and Community](file:///home/chronos/u-e8e451034f4f9389fcc1a8747b8eed87e2a27eb1/Downloads/eScholarship%20UC%20item%205qb5z783.pdf)
 * [Analyzing Large Kinship and Marriage Networks With Pgraph and Pajek (White, Bagatelj)]( http://vlado.fmf.uni-lj.si/vlado/papers../245.pdf)
-* [Kinship Network Analysis,](https://hal.archives-ouvertes.fr/halshs-00658667/document) Hamberger et al 2011.
-* [Kinship Class, and Community](Kinship, Class, and Community), White 2011.
+* [Kinship Network Analysis (Hamberger et al 2011)](https://hal.archives-ouvertes.fr/halshs-00658667/document) 
+* [Kinship Class, and Community(, White 2011](https://escholarship.org/uc/item/5qb5z783)
 *> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
 * [Kinship Class, and Community](Kinship, Class, and Community), White 2011.
 * [Analysis of Kinship Relations with Pajek](http://vlado.fmf.uni-lj.si/pub/networks/doc/gen/kinshipr2.pdf)

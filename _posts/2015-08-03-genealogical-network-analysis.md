@@ -18,7 +18,7 @@ Pajek imports GEDCOM files.
 * [A book on doing SNA with Pajek](http://www.amazon.com/Exploratory-Network-Analysis-Structural-Sciences/dp/0521174805)
 * [an introductory Pajek lesson.](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/assignments/MIT14_15JF09_pajek.pdf)
 * [TIPP macros for Pajek](http://intersci.ss.uci.edu/wiki/index.php/TIPP_Kinship_and_computing)
-
+* [Kinship Network Analysis,](https://hal.archives-ouvertes.fr/halshs-00658667/document) Hamberger et al 2011.
 
 * GEPHI and GEDCOM
   * [https://forum.gephi.org/viewtopic.php?t=1595](https://forum.gephi.org/viewtopic.php?t=1595)

@@ -27,3 +27,5 @@ Pajek imports GEDCOM files.
 
   * Tur.ged is a genealogy of Turkish nomads (White et al., 1999). Among nomads, a relinking marriage is a signal of commitment to stay within the nomad group; therefore, again, high relinking is expected. (Batagelj, 10)
   * DR WHite, [Kinship, Class, and Community](file:///home/chronos/u-e8e451034f4f9389fcc1a8747b8eed87e2a27eb1/Downloads/eScholarship%20UC%20item%205qb5z783.pdf)
+
+* [https://www.kinsources.net/](https://www.kinsources.net/)

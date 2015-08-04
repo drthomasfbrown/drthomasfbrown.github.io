@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: Social Network Analysis using Genealogical Data
+permalink: genealogySNA
+published: true
 ---
 
 

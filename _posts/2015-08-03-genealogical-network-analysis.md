@@ -8,6 +8,7 @@ published: true
 
 
 
+
 Pajek imports GEDCOM files.
 
 * [http://eclectic.ss.uci.edu/~drwhite/pgraph/p-graphs.html](http://eclectic.ss.uci.edu/~drwhite/pgraph/p-graphs.html)
@@ -16,6 +17,7 @@ Pajek imports GEDCOM files.
 * [Analysis of Kinship Relations with Pajek](http://vlado.fmf.uni-lj.si/pub/networks/doc/gen/kinshipr2.pdf)
 * [A book on doing SNA with Pajek](http://www.amazon.com/Exploratory-Network-Analysis-Structural-Sciences/dp/0521174805)
 * [an introductory Pajek lesson.](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/assignments/MIT14_15JF09_pajek.pdf)
+* [TIPP macros for Pajek](http://intersci.ss.uci.edu/wiki/index.php/TIPP_Kinship_and_computing)
 
 
 * GEPHI and GEDCOM

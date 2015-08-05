@@ -2,6 +2,7 @@
 layout: post
 title: Social Network Analysis using Genealogical Data
 permalink: genealogySNA
+categories: ['SNA']
 published: true
 ---
 

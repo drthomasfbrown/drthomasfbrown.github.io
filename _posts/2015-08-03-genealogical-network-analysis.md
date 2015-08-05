@@ -42,7 +42,7 @@ GEPHI and GEDCOM
 * [Kinship, Computing, and Anthropology (Lyon & Magliveras, 2006)](http://www.researchgate.net/profile/Simeon_Magliveras/publication/242297418_Kinship_Computing_and_Anthropology/links/00b7d53bcb3e96d316000000.pdf)
 
 Books
-* [AExploratory Social Network Analysis with Pajek (available for pdf download)](http://www.amazon.com/Exploratory-Network-Analysis-Structural-Sciences/dp/0521174805)
+* [Exploratory Social Network Analysis with Pajek (available for pdf download)](http://www.amazon.com/Exploratory-Network-Analysis-Structural-Sciences/dp/0521174805)
 
 *> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
 

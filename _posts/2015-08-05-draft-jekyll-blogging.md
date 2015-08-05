@@ -19,7 +19,7 @@ The initial Jekyll Now install is bare bones. Justin James has written [an excel
 
 ### Customizing the look of your blog
 
-You have full access to the css and layout files for your blog in your Github account. You can change anything you want. I have played around with some Google web fonts, but eventually went back to the original Jekyll Now font--Arial. I did make my avatar photo a tad larger -- because I am one beautiful monkey.
+You have full access to the css and layout files for your blog in your Github account. You can change anything you want. I have played around with some Google web fonts, but eventually went back to the original Jekyll Now fonts. I did make my avatar photo a tad larger -- because I am one beautiful monkey.
 
 
 

@@ -11,6 +11,7 @@ published: true
 
 
 
+
 Pajek imports GEDCOM files.
 
 Software & tutorials:
@@ -35,6 +36,7 @@ GEPHI and GEDCOM
 * [Kinship Network Analysis (Hamberger et al 2011)](https://hal.archives-ouvertes.fr/halshs-00658667/document) 
 * [Kinship Class, and Community(White 2011](https://escholarship.org/uc/item/5qb5z783)
 * [Analysis of Kinship Relations with Pajek (Bagatelj & Mrvar](http://vlado.fmf.uni-lj.si/pub/networks/doc/gen/kinshipr2.pdf)
+* [Kinship, Computing, and Anthropology (Lyon & Magliveras, 2006)](http://www.researchgate.net/profile/Simeon_Magliveras/publication/242297418_Kinship_Computing_and_Anthropology/links/00b7d53bcb3e96d316000000.pdf)
 
 Books
 * [AExploratory Social Network Analysis with Pajek (available for pdf download)](http://www.amazon.com/Exploratory-Network-Analysis-Structural-Sciences/dp/0521174805)

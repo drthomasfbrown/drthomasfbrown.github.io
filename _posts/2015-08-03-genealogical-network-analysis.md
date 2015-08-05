@@ -2,9 +2,11 @@
 layout: post
 title: Social Network Analysis using Genealogical Data
 permalink: genealogySNA
-categories: ['SNA']
+categories: 
+  - SNA
 published: true
 ---
+
 
 
 
@@ -45,3 +47,9 @@ Books
 *> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
 
 * [https://www.kinsources.net/](https://www.kinsources.net/)
+
+The common anthropological idea of representing culture by a shared set
+of rules, in Leaf’s view and ours, is largely a façade. Behind the appearance
+of shared cultural or institutional forms for any given community or
+society there lies far more heterogeneity and structural variability than
+the anthropological construct of “shared rules” is wont to admit. (White & Johansen, p. 39)

@@ -48,8 +48,15 @@ Books
 
 * [https://www.kinsources.net/](https://www.kinsources.net/)
 
-The common anthropological idea of representing culture by a shared set
+Notes from White & Johansen:
+
+* The common anthropological idea of representing culture by a shared set
 of rules, in Leaf’s view and ours, is largely a façade. Behind the appearance
 of shared cultural or institutional forms for any given community or
 society there lies far more heterogeneity and structural variability than
-the anthropological construct of “shared rules” is wont to admit. (White & Johansen, p. 39)
+the anthropological construct of “shared rules” is wont to admit. (p. 39)
+
+* Moody and White (2003) found multiconnectivity
+and social embeddedness—the deepest k-components to which actors
+belong (for higher values of k-connectivity) in larger cohesive groups—
+to outperform many other potential predictors of downstream consequences (p. 46

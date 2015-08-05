@@ -17,6 +17,8 @@ You can create and write posts and pages directly in the browser using Github's 
 
 The initial Jekyll Now install is bare bones. Justin James has written [an excellent series of tutorials](http://digitaldrummerj.me/blogging-on-github-part-1-Getting-Started/) that will help you get started with Jekyll Now, and to flesh out your web site with more features. I have used his tutorials to add a category search, a Google search, and Disqus comments to my blog. One caution: When I cut and paste his code, I introduced some extra tab indentations that were not in his original code. This caused the code not to work right, until I went back and undid the superfluous tabs. Other than that error that I introduced myself, everything worked perfectly.
 
+### Customizing the look of your blog
+
 
 
 

@@ -6,6 +6,7 @@ published: true
 ---
 
 
+A collection of text analysis tools and tutorials for Python.
 
 [From Neal Caren:](http://nealcaren.github.io/python-tutorials/)
 

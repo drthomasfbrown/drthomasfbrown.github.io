@@ -65,4 +65,11 @@ also look at group-level processes, such as how people “vote,” via their
 network behavior, for the emergence of leaders, how such group-level
 processes interact with individual level characteristics, such as those of
 emergent leaders, and the way that emergent leaders were embedded in
-the network. (pp. 46-47)
+the network [...] A comparison of inwardness versus outwardness is undertaken
+to ask what different types of edges entail for boundaries and
+boundary crossings for communities, ethnicities, societies, and cultures.
+This view of a network study and its place in the study of culture and
+social interaction also expands the standard sociological concept of a
+network study (e.g., Laumann, Marsden, and Prensky 1989) as one that
+must specify an organic boundary to the network to be studied, which is
+a nod, again, to self-closure.  (pp. 46-47)

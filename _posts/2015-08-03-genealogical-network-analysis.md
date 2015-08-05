@@ -59,4 +59,10 @@ the anthropological construct of “shared rules” is wont to admit. (p. 39)
 * Moody and White (2003) found multiconnectivity
 and social embeddedness—the deepest k-components to which actors
 belong (for higher values of k-connectivity) in larger cohesive groups—
-to outperform many other potential predictors of downstream consequences (p. 46
+to outperform many other potential predictors of downstream consequences [...] Many of our hypotheses concern the feedback relationships between
+individual decision making and their social embeddedness. We
+also look at group-level processes, such as how people “vote,” via their
+network behavior, for the emergence of leaders, how such group-level
+processes interact with individual level characteristics, such as those of
+emergent leaders, and the way that emergent leaders were embedded in
+the network. (pp. 46-47)

@@ -5,9 +5,7 @@ permalink: /categoryview/
 published: true
 ---
 
-test stuff here yada
-    
-        <div>
+    <div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
      <span class="site-tag">

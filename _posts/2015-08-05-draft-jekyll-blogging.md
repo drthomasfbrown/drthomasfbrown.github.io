@@ -3,7 +3,7 @@ published: false
 ---
 
 
-This blog is built using Jekyll and hosted on Github for free. Everything is managed via the Internet browser on my Chromebook -- I have not downloaded any software at all. I've been interested in Jekyll for years, but I didn't want to have to install Ruby and learn it. It seemed like too much technical overhead. At the same time, I wanted to be able to write to text files in Markdown, enjoy the free hosting on Github, and have a high level of control over my site's look and function.
+This blog is built using Jekyll and hosted on Github for free. Everything is managed via the Internet browser on my Chromebook -- I have not downloaded any software at all. I've been interested in Jekyll for years, but I didn't want to have to install Ruby and learn it. It seemed like too much technical overhead. At the same time, I wanted to be able to write to text files in Markdown, enjoy the free hosting on Github, and have a high level of control over my site's look and functionality.
 
 The solution: [Jekyll Now](https://github.com/barryclark/jekyll-now). Installation is a breeze. You create a Github account. You "fork" Jekyll Now, which basically means you make a copy from the author's Github account into your own account. You open your local copy's config file and enter your own site name and address, and you have a blog. It takes five minutes. Detailed instructions [are here](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
 

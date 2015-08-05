@@ -1,9 +1,9 @@
-    ---
-    layout: page
-    title: Posts by Category
-    permalink: /categoryview/
-    published: true
-    ---
+---
+layout: page
+title: Posts by Category
+permalink: /categoryview/
+published: true
+---
 
 test stuff here yada
     

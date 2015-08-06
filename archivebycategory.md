@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts by Category
+title: Browse Posts by Category
 permalink: /categoryview/
 published: true
 ---

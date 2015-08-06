@@ -13,13 +13,6 @@
 // Syntax highlighting @import is at the bottom of this file
 
 
-@font-face { font-family: ETBembo;
-             src: url("ETBembo-RomanLF.ttf"); }
-@font-face { font-family: ETBembo;
-             src: url("ETBembo-DisplayItalic.ttf");
-             font-weight: normal;
-             font-style: italic; }
-
 /**************/
 /* BASE RULES */
 /**************/
@@ -77,6 +70,8 @@ h4 {
 }
 
 p {
+
+font-family: 'EB Garamond', serif;
   margin: 15px 0;
 }
 

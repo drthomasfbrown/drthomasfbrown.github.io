@@ -25,6 +25,7 @@ Software & tutorials:
 * [http://eclectic.ss.uci.edu/download/MarriageNetTools.htm](http://eclectic.ss.uci.edu/download/MarriageNetTools.htm)
 * [an introductory Pajek lesson.](http://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/assignments/MIT14_15JF09_pajek.pdf)
 * [TIPP macros for Pajek](http://intersci.ss.uci.edu/wiki/index.php/TIPP_Kinship_and_computing)
+* [https://www.kinsources.net/](https://www.kinsources.net/)
 
 GEPHI and GEDCOM
   * [https://forum.gephi.org/viewtopic.php?t=1595](https://forum.gephi.org/viewtopic.php?t=1595)
@@ -43,13 +44,12 @@ GEPHI and GEDCOM
 * [Kinship, Computing, and Anthropology (Lyon & Magliveras, 2006)](http://www.researchgate.net/profile/Simeon_Magliveras/publication/242297418_Kinship_Computing_and_Anthropology/links/00b7d53bcb3e96d316000000.pdf)
 
 Books
+
 * [Exploratory Social Network Analysis with Pajek (available for pdf download)](http://www.amazon.com/Exploratory-Network-Analysis-Structural-Sciences/dp/0521174805)
 
-> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
-
-* [https://www.kinsources.net/](https://www.kinsources.net/)
-
 Notes from White & Johansen:
+
+> [The White and Johansen approach to "network analysis" provides the framework for unparalleled examination of sub-national political behavior. This tool for nonlinear dynamic analysis encourages detailed assessment of highly decentralized self-organizing local governance structures otherwise unavailable through state level scrutiny.](http://eclectic.ss.uci.edu/~drwhite/turks/Networks_and_Ethnography.htm)
 
 * The common anthropological idea of representing culture by a shared set
 of rules, in Leaf’s view and ours, is largely a façade. Behind the appearance

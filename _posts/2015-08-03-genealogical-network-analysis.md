@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Network Analysis using Genealogical Data
+title: Social Network Analysis of Genealogical Data
 permalink: genealogySNA
 categories: 
   - SNA

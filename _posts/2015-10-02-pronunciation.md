@@ -16,7 +16,7 @@ I began with Gabe Wyner's Latin American Spanish [pronunciation trainer](https:/
 
 -The US State Department's Foreign Service Institute language programs also begin with pronunciation. Most of these are available online for free. There are a number of FSI Spanish courses, and at least two of them have extensive pronunciation training: the [Basic course](http://fsi-languages.yojik.eu/languages/spanish-basic.html), and the [Programmatic course](http://fsi-languages.yojik.eu/languages/spanish-programmatic.html).
 
-[Tongue twisters](http://www.spanishpronto.com/spanishpronto/SPBS-2011-000-002.html) from SpanishPronto.com.
+-[Tongue twisters](http://www.spanishpronto.com/spanishpronto/SPBS-2011-000-002.html) from SpanishPronto.com.
 
 -A simple sentence used to teach these to young children in Spanish-speaking countries that uses all 5 vowels plus the double “rr” is “El burro sabe más que tú”
 

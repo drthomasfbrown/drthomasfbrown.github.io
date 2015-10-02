@@ -18,7 +18,7 @@ categories: [Spanish]
 4. In "Open media" window, choose "file" tab. Click "add" button and choose files to convert.
 5. Navigate to where the Pimsleur file is stored. Default in Windows is somewhere under "My Music".
 6. Choose file(s) to convert, click "Convert/Save".
-7. In "Convert" window, set to "Audio-MP3". Then set destination folder and file name.
+7. In "Convert" window, set to "Audio-MP3". Then set destination folder and file name. It takes a while to convert to mp3.
 8. 
 
 Open in 

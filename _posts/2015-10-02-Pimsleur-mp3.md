@@ -1,15 +1,9 @@
 ---
-published: false
----
-
-
----
 layout: post
 title: How to rip Pimsleur to mp3
 permalink: Pimsleur-mp3
 published: true
 categories: [Spanish]
-
 ---
 ## How to rip Pimsleur to mp3
 

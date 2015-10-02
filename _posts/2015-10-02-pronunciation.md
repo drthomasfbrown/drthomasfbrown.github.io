@@ -8,7 +8,7 @@ categories:
 ---
 
 ## Tools to learn Spanish pronunciation
-I began with Gabe Wyner's Latin American Spanish [pronunciation trainer](https://fluent-forever.com/pronunciation-trainers/#.Vg8EQMtJaa0) from FluentForever.com. This is more for training your ear to hear the fine points of Spanish pronunciation. I don't think it's a big help in spoken pronunciation, unless you specifically model the sounds you hear. Because Gabe has downloaded his sound clips from Forvo, the quality is variable. There are different accents, which for a beginner is more harmful than helpful. I especially found the variation in pronouncing the "ll" sound to raise questions. While it is a nice product and may be useful for rarer languages, for Spanish I don't think it's a necessary buy, because there are free alternatives that do the same:
+I began with Gabe Wyner's Latin American Spanish [pronunciation trainer](https://fluent-forever.com/pronunciation-trainers/#.Vg8EQMtJaa0) from FluentForever.com. This is more for training your ear to hear the fine points of Spanish pronunciation. I don't think it's a big help in spoken pronunciation, unless you specifically model the sounds you hear. Because Gabe appears to have downloaded his sound clips from Forvo, the quality is variable. There are different accents, which for a beginner is more harmful than helpful. I especially found the variation in pronouncing the "ll" sound to raise questions. While it is a nice product and may be useful for rarer languages, for Spanish I don't think it's a necessary buy, because there are free alternatives that do the same:
 
 -StudySpanish.com has a nice pronunciation [module online for free](http://www.studyspanish.com/pronunciation/).
 

@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ---
 layout: post
 title: How to rip Pimsleur to mp3
@@ -20,5 +21,3 @@ categories: [Spanish]
 6. Choose file(s) to convert, click "Convert/Save". (While you can batch add files in this window, as far as I have been able to figure, you have to convert them one-by-one.)
 7. In "Convert" window, set to "Audio-MP3". Then set destination folder and file name. Click Save, then Start. It takes a while to convert to mp3.
 8. Mp3s can be uploaded to Dropbox, and accessed via Chromebook.
-
-Open in 

@@ -20,7 +20,7 @@ I began with Gabe Wyner's Latin American Spanish [pronunciation trainer](https:/
 
 -A simple sentence used to teach these to young children in Spanish-speaking countries that uses all 5 vowels plus the double “rr” is “El burro sabe más que tú”
 
--To practice "r"s:
+To practice "r"s:
 Erre con Erre Cigarro
 Erre con Erre Barril
 Rápido ruedan las ruedas (or, Rapido corren los carros)  

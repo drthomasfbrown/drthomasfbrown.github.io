@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Tools to learn Spanish pronunciation
 permalink: pronunciation

@@ -12,8 +12,8 @@ categories: [Spanish]
 ---
 ## How to rip Pimsleur to mp3
 
-1. Open in Windows Media Player
-2. In the upper Rh corner, there is a rip button. It takes a while to rip the CD.
+1. Open Pimsleur CD in Windows Media Player
+2. In the upper RH corner, there is a rip button. It takes a while to rip the CD.
 3. Open VLC. In "Media" menu, choose "Convert/Save".
 4. In "Open media" window, choose "file" tab. Click "add" button and choose files to convert.
 5. Navigate to where the Pimsleur file is stored. Default in Windows is somewhere under "My Music".

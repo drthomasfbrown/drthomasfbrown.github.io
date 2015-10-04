@@ -3,8 +3,7 @@ layout: post
 title: How to rip Pimsleur to mp3
 permalink: "Pimsleur-mp3"
 published: true
-categories: 
-  - Spanish
+categories: Spanish
 ---
 
 1. Open Pimsleur CD in Windows Media Player

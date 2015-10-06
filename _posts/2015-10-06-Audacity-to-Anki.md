@@ -36,3 +36,5 @@ Install Audacity. Install the LAME and FFmpeg after installing Audacity. LAME en
 
 <font size="3"><i>{{Base}}</i>
 
+This makes the Target language twice as large. The translation is smaller and italicized. This way I only read it if I really need it. It's like having an immersion card (no English), but with the cheat sheet if one is needed.
+

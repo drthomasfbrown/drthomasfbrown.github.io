@@ -38,5 +38,7 @@ Install [Audacity](http://audacityteam.org/). Install the [LAME and FFmpeg](http
 
 <font size="3"><i>{{Base}}</i>
 
-This makes the Target language twice as large. The translation is smaller and italicized. This way I only read it if I really need it. It's like having an immersion card (no English), but with the cheat sheet if one is needed. I'm all in favor of immersion cards, but some of my early ones feature colloquialisms that I forgot after making the card. Now I put translations on, but keep them inconspicuous.
+This makes the Target language twice as large. The translation is smaller and italicized. This way I only read it if I really need it. It's like having an immersion card (no English), but with the cheat sheet if one is needed. 
+
+I'm all in favor of immersion cards, but some of my early ones feature colloquialisms that I forgot after making the card. Now I put translations on, but keep them inconspicuous.
 

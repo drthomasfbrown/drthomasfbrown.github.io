@@ -24,7 +24,7 @@ Install [Audacity](http://audacityteam.org/). Install the [LAME and FFmpeg](http
 
 - I copy and paste the mp3s into Anki on the front of the card. I also put a picture of some sort.
 
-- On the back of the card, I added two new fields (fields are places to put stuff on an Anki flashcard). Go to Tools/Manage note types, then "Fields" and add. I called my two new fields "Target" and "Base". To have them show on the card, go to Tools/Manage note types, then "Cards". Then put the new field names enclosed in double curly braces onto the back of the card. Like this:
+- On the back of the card, I added two new fields (fields are places to put stuff on an Anki flashcard). Go to Tools/Manage note types, then "Fields" and "Add". I called my two new fields "Target" and "Base". To have them show on the card, go to Tools/Manage note types, then "Cards". Then put the new field names enclosed in double curly braces onto the back of the card. Like this:
 
 {{Target}}
 

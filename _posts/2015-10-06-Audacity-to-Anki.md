@@ -2,11 +2,11 @@
 published: false
 ---
 
-Making audio sentence flashcards for Anki using Audacity.
+Making audio sentence flashcards for Anki using Audacity, the free audio editing software.
 
 **Setting up Audacity**
 
-Install Audacity. Install the LAME and FFmpeg after installing Audacity. LAME enables mp3 encoding. FFmpeg enables importing the audio tracks of video files.
+Install [Audacity](http://audacityteam.org/). Install the [LAME and FFmpeg](http://lame.buanzo.org/) libraries after installing Audacity. LAME enables mp3 encoding. FFmpeg enables importing the audio tracks of video files.
 
 **Making sentence mp3s**
 

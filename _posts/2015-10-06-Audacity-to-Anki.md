@@ -22,7 +22,7 @@ Install Audacity. Install the LAME and FFmpeg after installing Audacity. LAME en
 
 - I copy and paste the mp3s into Anki.
 
-- I added two new fields, which I called "Target" and "Base". To have them show on the card, you need to click Card and then put the following code onto the back of the card:
+- I added two new fields, which I called "Target" and "Base". To have them show on the card, you need to click Card and then put the new filed names enclosed in double curly braces onto the back of the card:
 
 {{Target}}
 

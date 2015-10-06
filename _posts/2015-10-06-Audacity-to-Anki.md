@@ -16,7 +16,7 @@ Install Audacity. Install the LAME and FFmpeg after installing Audacity. LAME en
 
 - Choose "Export selected audio" from the File menu to save your selection as an mp3.
 
-- A alternate, shortcut for exporting multiple mp3s from a single audio track is using labels. Highlight the portion you want to export, then press Ctrl+B. Type the name you want for that sentence. Then select the next sentence and label it. Repeat until every sentence you want is selected and labeled. Finally, go to "Export Multiple Files" (Ctrl+Shift+L) and choose "Divide files by label" (or something along those lines). Each file will be exported using the label as the filename.
+- A alternate, shortcut for exporting multiple mp3s from a single audio track is using labels. Highlight the portion you want to export, then press Ctrl+B. Type the name you want for that sentence. Then select the next sentence and label it. Repeat until every sentence you want is selected and labeled. Finally, go to the File menu and choose "Export Multiple Files" (Ctrl+Shift+L), and  "Divide files by label". Each selected sentence will be exported  as a separate mp3, using your label as the filename.
 
 **Adding fields to Anki**
 

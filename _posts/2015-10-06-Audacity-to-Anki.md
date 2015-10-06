@@ -17,13 +17,19 @@ Install Audacity. Install the LAME and FFmpeg after installing Audacity. LAME en
 - A alternate, shortcut for exporting multiple mp3s from a single audio track is using labels. Highlight the portion you want to export then press Ctrl+B. Type the name you want for that chunk of audio then highlight the next chunk and repeat until everything you want is labeled. Afterwards, go to "Export Multiple Files" (Ctrl+Shift+L) and choose "Divide files by label" (or something along those lines). Each file will be exported using the label as the filename.
 
 **Adding fields to Anki**
-I added two new fields, which I called "Target" and "Base". To have them show on the card, you need to click Card and then put the following code onto the back of the card:
+- I copy and paste the mp3s into Anki.
+
+- I added two new fields, which I called "Target" and "Base". To have them show on the card, you need to click Card and then put the following code onto the back of the card:
+
 {{Target}}
+
 {{Base}}
 
-I wanted the Target language to standa out, so that I would not be distracted by the English translation. So I added some css to distinguish the two:
+- I wanted the Target language to stand out, so that I would not be distracted by the English translation. So I added some css to distinguish the two:
 
 <font size="6">{{Target}}
+
 <br>
+
 <font size="3"><i>{{Base}}</i>
 

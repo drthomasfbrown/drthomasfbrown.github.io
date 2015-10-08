@@ -13,11 +13,15 @@ This method only works with Youtube videos that have a "CC" button to turn the s
 
 2. Pasting the video's URL into [keepsubs.com](http://keepsubs.com/) results in a downloadable subtitle file in .srt format.
 
-3. That .srt subtitle file can be opened in [Subtitle Edit](http://www.nikse.dk/subtitleedit/). This program will also generate an automatic translation of the Spanish subtitles, using the Google Translate engine. I saved the Spanish and English .srt files separately.
+3. That .srt subtitle file can be opened in [Subtitle Edit](http://www.nikse.dk/subtitleedit/). This program will also generate an automatic English translation of the Spanish subtitles, using the Google Translate engine. I saved the Spanish and English .srt files separately.
+
+a. On the Tools menu, you can automatically merge short lines together. Adjusting the settings will affect how many lines are merged. I was not able to find a way to manually select two lines and merge them.
+
+b. You can edit the translations in this program. But with around 600 lines in the 52-minute video, it was too much for me to do by hand at this stage in the process. If I come across some cards that I especially like but that have problematic translations, I can always tweak the translations down the road.
 
 4. I used Handbrake to convert the downloaded video into MKV format.
 
-5. I used subs2srs to create Anki cards out of the MKV video and the two .srt subtitle files.
+5. I used subs2srs to create Anki cards out of the MKV video and the two .srt subtitle files. While in subs2srs, I browsed through the cards using the Preview feature, and deleted some obviously bad ones. I also did a little editing of the translations.
 
 Not all of the Anki cards thus generated were usable. Some were basically noise. Others had terrible translations that weren't worth fixing. Many are simply too difficult for me right now. At this stage in my progress I'm looking for cards that I can decipher with the help of dictionaries and Google Translate. But setting aside those problem cards, this 52-minute video still resulted in well over 500 useful audio sentence Anki cards.
 

@@ -11,7 +11,7 @@ This method only works with Youtube videos that have a "CC" button to turn the s
 
 1. I used [Download Youtube Videos as MP4](https://addons.mozilla.org/en-us/firefox/addon/download-youtube/) to download a [documentary of Latin America](http://www.rtve.es/alacarta/videos/historia-de-america-latina/historia-america-latina-poblamiento-america-latina/1780890/) in Spanish from Youtube.
 
-2. Pasting the video's URL into http://keepsubs.com/ results in a downloadable subtitle file in .srt format.
+2. Pasting the video's URL into [keepsubs.com](http://keepsubs.com/) results in a downloadable subtitle file in .srt format.
 
 3. That .srt subtitle file can be opened in [Subtitle Edit](http://www.nikse.dk/subtitleedit/). This program will also generate an automatic translation of the Spanish subtitles, using the Google Translate engine. I saved the Spanish and English .srt files separately.
 

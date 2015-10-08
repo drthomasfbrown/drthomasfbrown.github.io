@@ -23,6 +23,8 @@ b. You can edit the translations in this program. But with around 600 lines in t
 
 5. I used subs2srs to create Anki cards out of the MKV video and the two .srt subtitle files. While in subs2srs, I browsed through the cards using the Preview feature, and deleted some obviously bad ones. I also did a little editing of the translations.
 
+6. Import the subs2srs output into Anki.
+
 Not all of the Anki cards thus generated were usable. Some were basically noise. Others had terrible translations that weren't worth fixing. Many are simply too difficult for me right now. At this stage in my progress I'm looking for cards that I can decipher with the help of dictionaries and Google Translate. But setting aside those problem cards, this 52-minute video still resulted in well over 500 useful audio sentence Anki cards.
 
 The documentary features some rather poetic narration, in beautifully-written Spanish. It also features some more academic and analytical language, mostly in the interviews with academics. And the narrator speaks clearly and relatively slowly -- good for a Spanish beginner to decipher.

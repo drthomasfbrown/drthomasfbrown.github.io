@@ -7,7 +7,7 @@ This is how I made more than 500 audio sentence cards for Anki from a Youtube vi
 
 Each flashcard features a snapshot from the video on the front, and an audio recording of a sentence. On the back of the card is a transcription of the target sentence in Spanish, with the line before and the line after given for context. At the bottom are the same three lines translated into English.
 
-This method only works with Youtube videos that have a "CC" button to turn the subtitles on and off. WHile this means that not every video can be used with this method, there is no shortage of excellent study material that does feature CC subtitles.
+This method only works with Youtube videos that have a "CC" button to turn the subtitles on and off. While this means that not every video can be used with this method, there is no shortage of excellent study material that does feature CC subtitles.
 
 1. I used [Download Youtube Videos as MP4](https://addons.mozilla.org/en-us/firefox/addon/download-youtube/) to download a [documentary of Latin America](http://www.rtve.es/alacarta/videos/historia-de-america-latina/historia-america-latina-poblamiento-america-latina/1780890/) in Spanish from Youtube.
 

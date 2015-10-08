@@ -9,7 +9,7 @@ Each flashcard features a snapshot from the video on the front, and an audio rec
 
 This method only works with Youtube videos that have a "CC" button to turn the subtitles on and off. While this means that this method does not work with every Youtube video, there is no shortage of excellent study material on Youtube that does feature CC subtitles.
 
-1. I used [Download Youtube Videos as MP4](https://addons.mozilla.org/en-us/firefox/addon/download-youtube/) to download a [documentary of Latin America](http://www.rtve.es/alacarta/videos/historia-de-america-latina/historia-america-latina-poblamiento-america-latina/1780890/) in Spanish from Youtube.
+1. I used [Download Youtube Videos as MP4](https://addons.mozilla.org/en-us/firefox/addon/download-youtube/) to download a [documentary of Latin America](http://www.rtve.es/alacarta/videos/historia-de-america-latina/historia-america-latina-poblamiento-america-latina/1780890/) in Spanish from Youtube. It's an add-on for Firefox, that places a "Download" button under each video on Youtube. Very easy.
 
 2. Pasting the video's URL into [keepsubs.com](http://keepsubs.com/) results in a downloadable subtitle file in .srt format.
 

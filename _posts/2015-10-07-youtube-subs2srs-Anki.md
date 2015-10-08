@@ -13,11 +13,13 @@ This method only works with Youtube videos that have a "CC" button to turn the s
 
 2. Pasting the video's URL into [keepsubs.com](http://keepsubs.com/) results in a downloadable subtitle file in .srt format.
 
+- Some Youtube videos have subtitles in more than one language. It may be possible to download both subtitle files seperately? That would be very useful to have timed and translated subtitles.
+
 3. That .srt subtitle file can be opened in [Subtitle Edit](http://www.nikse.dk/subtitleedit/). This program will also generate an automatic English translation of the Spanish subtitles, using the Google Translate engine. I saved the Spanish and English .srt files separately.
 
-a. On the Tools menu, you can automatically merge short lines together. Adjusting the settings will affect how many lines are merged. I was not able to find a way to manually select two lines and merge them.
+- On the Tools menu, you can automatically merge short lines together. Adjusting the settings will affect how many lines are merged. I was not able to find a way to manually select two lines and merge them.
 
-b. You can edit the translations in this program. But with around 600 lines in the 52-minute video, it was too much for me to do by hand at this stage in the process. If I come across some cards that I especially like but that have problematic translations, I can always tweak the translations down the road.
+- You can edit the translations in this program. But with around 600 lines in the 52-minute video, it was too much for me to do by hand at this stage in the process. If I come across some cards that I especially like but that have problematic translations, I can always tweak the translations down the road.
 
 4. I used Handbrake to convert the downloaded video into MKV format.
 

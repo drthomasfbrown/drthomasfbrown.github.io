@@ -13,7 +13,7 @@ This method only works with Youtube videos that have a "CC" button to turn the s
 
 2. Pasting the video's URL into [keepsubs.com](http://keepsubs.com/) results in a downloadable subtitle file in .srt format.
 
--- Some Youtube videos have subtitles in more than one language. It may be possible to download both subtitle files seperately? That would be very useful to have timed and translated subtitles.
+-- Some Youtube videos have subtitles in more than one language. It may be possible to download both subtitle files separately? That would be very useful to have timed and translated subtitles.
 
 3. That .srt subtitle file can be opened in [Subtitle Edit](http://www.nikse.dk/subtitleedit/). This program will also generate an automatic English translation of the Spanish subtitles, using the Google Translate engine. I saved the Spanish and English .srt files separately.
 

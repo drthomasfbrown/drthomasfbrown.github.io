@@ -29,4 +29,4 @@ Not all of the Anki cards thus generated were usable. Some were more or less noi
 
 Not all are complete sentences. Still, I think the sentence fragments are worth studying. The fragmentation is most often deliberate--not a result of my technological process. The documentary features some rather poetic narration, in beautifully written Spanish. It also features some more academic and analytical language, mostly in the interviews with academics. And the narrator speaks clearly and relatively slowly -- good for a Spanish beginner to decipher.
 
-In summary, this is a very good way to generate i+1 comprehensible input. With two hours of work, I have over 500 cards to study.
+In summary, this is a very good way to generate i+1 comprehensible input. With two hours of work, I have over 500 audio sentence cards to study.

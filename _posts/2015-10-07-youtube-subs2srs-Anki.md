@@ -3,7 +3,7 @@ published: false
 ---
 
 
-This is how I made more than 500 audio sentence cards for Anki from a Youtube video for my Spanish study--in only about two hours. And much of that time was spent waiting for programs to run--I wasn't working the whole time.
+This is how I made more than 500 audio sentence cards in Anki for my Spanish study from a Youtube video--in only about two hours. And much of that time was spent waiting for programs to run--I wasn't working the whole time.
 
 Each flashcard features a snapshot from the video on the front, and an audio recording of a sentence. On the back of the card is a transcription of the target sentence in Spanish, with the line before and the line after given for context. At the bottom are the same three lines translated into English.
 

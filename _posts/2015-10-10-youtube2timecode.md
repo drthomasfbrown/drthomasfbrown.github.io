@@ -27,7 +27,7 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 3) In Youtube, navigate to your video and turn on the CCs. Use [keepsubs.com](keepsubs.com) to download the Youtube CC as a .srt file.
 
-- Note that your Youtube video has to be published to the world in order for keepsubs to extract the subtitles. If you have uploaded a copyrighted video, remember to set it to private -- or delete it from Youtube altogether -- after keepsubs has finished its work.
+- Note that your Youtube video has to be published to the world in order for keepsubs to extract the subtitles. If you have uploaded a copyrighted video, remember to delete it from Youtube -- or at least set it to private -- after keepsubs has finished its work.
 
 4) Now that you have a video that is time-synced with a .srt subtitle file, you can generate Anki cards with subs2srs as normal.
 

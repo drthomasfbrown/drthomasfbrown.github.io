@@ -13,7 +13,9 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 2) Once your video file is uploaded, in Youtube:
 
-- Select Create new subtitles or CC. We want to make CCs here.
+- In Video Manage, click the dropdown next to your video.
+
+- Select Create new subtitles or CC. This takes you to a page entitled "Manage subtitles and closed captions". In the dropdown named "new subtitles or CC", choose
 
 - Underneath the video, click Transcribe and set timings.
 

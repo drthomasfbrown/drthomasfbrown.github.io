@@ -23,4 +23,4 @@ Say I have a video or audio recording, and a transcript, but no time code inform
 
 3) In Youtube, navigate to your video and turn on the CCs. Use [keepsubs.com](keepsubs.com) to download the Youtube CC as a .srt file.
 
-4) Generate Anki cards with subs2srs as normal.
+4) Now that you have synced video and .srt files, you can generate Anki cards with subs2srs as normal.

@@ -9,7 +9,7 @@ Say I have a video or audio recording, and a transcript, but no time code inform
 
 Keep in mind that this workflow could be used to automatically turn an audiobook into Anki audio sentence flashcards in a very short time. 
 
-1) I upload my video or audio to Youtube. I began with an audio-only mp3 file. I first need to convert it to a format that Youtube will accept. I used [zamzar.com](zamzar.com) to convert my mp3 to mp4.
+1) I upload my video or audio to Youtube. If you begin with an audio-only file, such as an mp3, you first need to convert it to a format that Youtube will accept. [zamzar.com](zamzar.com) is a free online service that will convert an mp3 to mp4.
 
 2) Once your video file is uploaded, in Youtube:
 

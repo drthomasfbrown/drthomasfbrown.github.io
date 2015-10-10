@@ -11,7 +11,7 @@ Say I have a video or audio recording, and a transcript, but no time code inform
 
 2) In Youtube:
 
-- Select Create new subtitles or CC.
+- Select Create new subtitles or CC. We want to make CCs here.
 
 - Underneath the video, click Transcribe and set timings.
 

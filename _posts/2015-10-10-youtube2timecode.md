@@ -19,7 +19,7 @@ Say I have a video or audio recording, and a transcript, but no time code inform
 
 - Click Set timings to sync your transcript with the video.
 
-- Setting the timings can take a few minutes. While you wait, you'll be brought back to the video tracklist. Once it's ready, your transcription will automatically be published on your video.
+- Setting the timings can take Youtube a few minutes to accomplish. While you wait, you'll be brought back to the video tracklist. Once it's ready, your transcription will automatically be published on your video.
 
 3) In Youtube, navigate to your video and turn on the CCs. Use [keepsubs.com](keepsubs.com) to download the Youtube CC as a .srt file.
 

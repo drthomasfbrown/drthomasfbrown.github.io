@@ -15,11 +15,9 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 - In Video Manage, click the dropdown next to your video.
 
-- Select Create new subtitles or CC. This takes you to a page entitled "Manage subtitles and closed captions". In the dropdown named "new subtitles or CC", choose
+- Select Create new subtitles or CC. This takes you to a page entitled "Manage subtitles and closed captions". In the dropdown named "new subtitles or CC", choose your language.
 
-- Underneath the video, click Transcribe and set timings.
-
-- Paste your transcript into the text field. 
+- Choose "Upload a file" and upload your transcript.
 
 - Click Set timings to sync your transcript with the video.
 

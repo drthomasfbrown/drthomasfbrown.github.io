@@ -15,7 +15,7 @@ Say I have a video or audio recording, and a transcript, but no time code inform
 
 - Underneath the video, click Transcribe and set timings.
 
-- Paste the transcript into the text field. 
+- Paste your transcript into the text field. 
 
 - Click Set timings to sync your transcript with the video.
 

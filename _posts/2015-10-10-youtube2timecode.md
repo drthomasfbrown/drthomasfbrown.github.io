@@ -23,7 +23,7 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 - Click "Set timings". Youtube will now automatically sync your transcript with your video's audio track (but only if they are in the same language).
 
-- Setting the timings can take Youtube a few minutes to accomplish. While you wait, you'll be brought back to the video tracklist. Once it's ready, your transcription will automatically be published on your video.
+- Setting the timings can take Youtube a few minutes to accomplish. Once it's ready, your transcription will automatically be published on your video.
 
 3) In Youtube, navigate to your video and turn on the CCs. Use [keepsubs.com](keepsubs.com) to download the Youtube CC as a .srt file.
 

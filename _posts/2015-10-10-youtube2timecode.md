@@ -11,7 +11,7 @@ Keep in mind that this workflow could be used to automatically turn an audiobook
 
 1) I upload my video or audio to Youtube. I began with an audio-only mp3 file. I first need to convert it to a format that Youtube will accept. I used [zamzar.com](zamzar.com) to convert my mp3 to mp4.
 
-2) In Youtube:
+2) Once your video file is uploaded, in Youtube:
 
 - Select Create new subtitles or CC. We want to make CCs here.
 

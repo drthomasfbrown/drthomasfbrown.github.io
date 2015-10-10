@@ -7,6 +7,8 @@ Using Youtube to automate the subs2srs workflow
 
 Say I have a video or audio recording, and a transcript, but no time code information. To make audio sentence cards for Anki, I would normally have to break out each sentence in Audacity, and then cut-and-paste everything into Anki by hand. This is *very* time-consuming (but can result in some excellent Anki cards). But I can use a Youtube-to-Keepsubs workflow to automatically generate a time-coded subtitle file. Then I can use subs2srs to automatically create audio sentence cards from my original source.
 
+Keep in mind that this workflow could be used to automatically turn an audiobook into Anki audio sentence flashcards in a very short time. 
+
 1) I upload my video or audio to Youtube. An audio-only file may first need to be converted to a format that Youtube will accept.
 
 2) In Youtube:

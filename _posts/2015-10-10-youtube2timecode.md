@@ -21,7 +21,7 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 - Choose "Upload a file" and upload your transcript.
 
-- Click Set timings to sync your transcript with the video. Youtube will automatically sync your transcript with your video's audio track, but only if they are in the same language
+- Click "Set timings". Youtube will now automatically sync your transcript with your video's audio track (but only if they are in the same language).
 
 - Setting the timings can take Youtube a few minutes to accomplish. While you wait, you'll be brought back to the video tracklist. Once it's ready, your transcription will automatically be published on your video.
 

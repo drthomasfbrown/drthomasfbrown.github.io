@@ -19,10 +19,12 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 - Choose "Upload a file" and upload your transcript.
 
-- Click Set timings to sync your transcript with the video.
+- Click Set timings to sync your transcript with the video. Youtube will automatically sync your transcript with your video's audio track, but only if they are in the same language
 
 - Setting the timings can take Youtube a few minutes to accomplish. While you wait, you'll be brought back to the video tracklist. Once it's ready, your transcription will automatically be published on your video.
 
 3) In Youtube, navigate to your video and turn on the CCs. Use [keepsubs.com](keepsubs.com) to download the Youtube CC as a .srt file.
 
 4) Now that you have synced video and .srt files, you can generate Anki cards with subs2srs as normal.
+
+Unfortunately, Youtube will not sync a translated transcript. Both transcript and audio have to be in the same language. You can, however, use Subtitle Edit to automatically generate a translated .srt file using Google Translate.

@@ -17,7 +17,7 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 - In Video Manager, click the dropdown next to your video.
 
-- Select "Create new subtitles or CC". This takes you to a page entitled "Manage subtitles and closed captions". In the dropdown named "new subtitles or CC", choose your language.
+- Select "Create new subtitles or CC". This takes you to a page entitled "Manage subtitles and closed captions". In the dropdown named "new subtitles or CC", choose the language matching your video's audio track.
 
 - Choose "Upload a file" and upload your transcript.
 

@@ -19,7 +19,7 @@ Keep in mind that this workflow could be used to automatically turn an entire au
 
 - Select "Create new subtitles or CC". This takes you to a page entitled "Manage subtitles and closed captions". In the dropdown named "new subtitles or CC", choose the language matching your video's audio track.
 
-- Choose "Upload a file" and upload your transcript. I saved my transcript in .txt format and Youtube had no trouble with it.
+- Choose "Upload a file" and upload your transcript. I saved my transcript in .txt format and Youtube had no trouble uploading it.
 
 - Click "Set timings". Youtube will now automatically sync your transcript with your video's audio track (but only if they are in the same language).
 
